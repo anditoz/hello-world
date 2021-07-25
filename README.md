@@ -1,2 +1,7 @@
 # hello-world
-just another repository 
+
+Hello to everyone reading this!
+
+Call me anditoz!
+I'm 16 years old.
+Passionate about coding.
